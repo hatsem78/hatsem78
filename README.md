@@ -42,8 +42,8 @@ Soy un Ingeniero de Software Senior orientado a resultados con sólida trayector
 
 ### 📫 Conéctate conmigo
 
-* 🌐 **Portafolio Web:** [octaviohatsembiller.com](https://octaviohatsembiller.com) *(Reemplaza con tu dominio personalizado)*
-* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Agrega tu enlace real)*
+* 🌐 **Portafolio Web:** [octaviohatsembiller.com](https://hatsem78.github.io/)
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/octavio-daniel-hatsembiller-9b316923/)
 * 📧 **Email:** hatsem78@gmail.com
 * 📱 **WhatsApp:** [+54 11 6743-0293](https://wa.me)
 

@@ -9,18 +9,18 @@ Soy un Ingeniero de Software Senior orientado a resultados con sólida trayector
 ### 🛠️ Tech Stack & Herramientas
 
 #### Backend Core
-![Java]([https://shields.io](https://www.java.com/es/))
-![Spring Boot](https://spring.io/projects/spring-boot)
-![Python](https://www.python.org/)
-![FastAPI](https://fastapi.tiangolo.com/)
-![Django](https://www.djangoproject.com/)
+🛠️[Java]([https://shields.io](https://www.java.com/es/))
+🛠️[Spring Boot](https://spring.io/projects/spring-boot)
+🛠️[Python](https://www.python.org/)
+🛠️[FastAPI](https://fastapi.tiangolo.com/)
+🛠️[Django](https://www.djangoproject.com/)
 
 #### Cloud, DevOps & Bases de Datos
-![Docker](https://www.docker.com/)
-![Kubernetes](https://kubernetes.io/)
-![Redis](https://redis.io/)
-![MySQL](https://www.mysql.com/)
-![Oracle](https://www.oracle.com/)
+🛠️[Docker](https://www.docker.com/)
+🛠️[Kubernetes](https://kubernetes.io/)
+🛠️[Redis](https://redis.io/)
+🛠️[MySQL](https://www.mysql.com/)
+🛠️[Oracle](https://www.oracle.com/)
 
 #### Frontend & Data Analysis
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

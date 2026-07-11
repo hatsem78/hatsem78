@@ -9,7 +9,7 @@ Soy un Ingeniero de Software Senior orientado a resultados con sólida trayector
 ### 🛠️ Tech Stack & Herramientas
 
 #### Backend Core
-🛠️[Java]([https://shields.io](https://www.java.com/es/))
+🛠️[Java]([https://shields.io](https://www.java.com/es/)
 🛠️[Spring Boot](https://spring.io/projects/spring-boot)
 🛠️[Python](https://www.python.org/)
 🛠️[FastAPI](https://fastapi.tiangolo.com/)

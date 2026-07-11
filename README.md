@@ -9,26 +9,22 @@ Soy un Ingeniero de Software Senior orientado a resultados con sólida trayector
 ### 🛠️ Tech Stack & Herramientas
 
 #### Backend Core
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Django](https://shields.io)
-![PHP](https://shields.io)
+![Java]([https://shields.io](https://www.java.com/es/))
+![Spring Boot](https://spring.io/projects/spring-boot)
+![Python](https://www.python.org/)
+![FastAPI](https://fastapi.tiangolo.com/)
+![Django](https://www.djangoproject.com/)
 
 #### Cloud, DevOps & Bases de Datos
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![GCP](https://shields.io)
-![Redis](https://shields.io)
-![MySQL](https://shields.io)
-![Oracle](https://shields.io)
+![Docker](https://www.docker.com/)
+![Kubernetes](https://kubernetes.io/)
+![Redis](https://redis.io/)
+![MySQL](https://www.mysql.com/)
+![Oracle](https://www.oracle.com/)
 
 #### Frontend & Data Analysis
-![JavaScript](https://shields.io)
-![Vue.js](https://shields.io)
-![Pandas](https://shields.io)
-![Jupyter](https://shields.io)
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![Vue.js](https://vuejs.org/guide/quick-start)
 
 ---
 
